@@ -27,7 +27,7 @@
 
 ## Photo (optional)
 
-![An empty white bowl](./empty-white-bowl-on-white-background-png.png)
+![An empty white bowl](./images/empty-white-bowl-on-white-background-png.png)
 
 For help with writing Markdown, see [The Markdown Guide](https://www.markdownguide.org/).
 
