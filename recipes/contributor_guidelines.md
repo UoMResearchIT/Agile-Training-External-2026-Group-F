@@ -19,10 +19,10 @@ Include one photo of the finished recipe. Requirements:
 - **Minimum size:** 500×500 pixels
 - **Content:** the finished dish, as prepared from the recipe
 
-To add your image, upload it to the `images` folder in the repository and reference it in your recipe file as:
+To add your image, upload it to the `images` folder in the cuisine subdirectory in the repository (e.g. `recipes/italian/images`) and reference it in your recipe file as:
 
 ```markdown
-![Recipe name](../images/your-image-file.jpg)
+![Recipe name](./images/your-image-file.jpg)
 ```
 
 ---
