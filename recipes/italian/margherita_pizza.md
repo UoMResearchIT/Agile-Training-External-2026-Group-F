@@ -33,6 +33,6 @@ Serve with a simple rocket salad (rocket, olive oil, lemon, salt) and a chilled 
 
 ## Photo
 
-<img width="799" height="533" alt="margherita-pizza" src="https://github.com/user-attachments/assets/f822ccde-dc5a-4055-9673-804b70f2a176" />
+![Magerita Pizza](./images/margherita_pizza.jpg)
 
 “<a href="https://www.flickr.com/photos/garrettziegler/7176133684" title="Margherita pizza, Barboncino">Margherita pizza, Barboncino</a>” by <a href="https://www.flickr.com/photos/garrettziegler/">Garrett Ziegler</a>, <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/deed.en" rel="license noopener noreferrer">CC BY-NC-ND 2.0</a>
