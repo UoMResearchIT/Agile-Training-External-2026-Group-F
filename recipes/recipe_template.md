@@ -1,3 +1,9 @@
+<!-- Where to save this file:
+     recipes/<cuisine>/<slug>.md
+       <cuisine> should be lowercase
+       <slug> should be lowercase, derived from the title of the recipe, with spaces replaced by hyphens (-)
+-->
+
 # Recipe Title
 
 - Cuisine Type:
